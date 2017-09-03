@@ -1,13 +1,5 @@
 Dear Prof. Tan!
 
-I am really excited to interview you on your new book, *World
-Christianity: Perspectives and Insights*, at 9:30am Eastern Standard
-Time (i.e., 6:30am Pacific Standard Time) on the morning of Wednesday,
-September 21, 2016. I’m delighted that we’ve been able to synchronize
-our schedules in order to do this!
-
- 
-
 Our interview will be published in our online venue: *Unitas Fidei: An
 Online Journal For World Christianity*
 (<http://aqueductproject.org/category/book-reviews/>). From 2011–2015, I
