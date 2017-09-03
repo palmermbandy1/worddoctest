@@ -1,19 +1,5 @@
 Dear Prof. Tan!
 
-Our interview will be published in our online venue: *Unitas Fidei: An
-Online Journal For World Christianity*
-(<http://aqueductproject.org/category/book-reviews/>). From 2011–2015, I
-conducted telephone interviews with 150 scholars and Christian leaders
-from 21 countries on the subject of the unity of the church. Through
-this process, I discovered (at least—for me it was a discovery!) that
-Christians from various theological traditions conceive of Christian
-unity very differently. It’s not just our doctrinal differences that
-separate us; in fact we conceive of Christian unity in a variety of
-ways, and our attempts to pursue Christian unity can therefore be
-misunderstood by Christians of other traditions. *Unitas Fidei* is meant
-to be a place where we can set to work understanding and pursuing the
-unity for which Jesus prayed in John 17.
-
 During our conversation, I would like to ask the following questions,
 perhaps somewhat amended so as to best fit the flow of our discussion:
 
