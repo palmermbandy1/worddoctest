@@ -39,12 +39,12 @@ perhaps somewhat amended so as to best fit the flow of our discussion:
 
 We will record our interview via Skype (please see the attached
 “Technical Recommendations” for details). Sometime before our interview,
-**I would be grateful if would send me a contact request via Skype** so
-that I have your details and can call you via Skype on the morning of
-the interview. I would also be grateful if you would kindly send me a
-telephone number at which you will be able to be reached on the morning
-of the interview (in the very unlikely case of internet failure on
-either of our ends); my cell phone number is (509) 995-5720.
+**I would be grateful if you** **would send me a contact request via
+Skype** so that I have your details and can call you via Skype on the
+morning of the interview. I would also be grateful if you would kindly
+send me a telephone number at which you will be able to be reached on
+the morning of the interview (in the very unlikely case of internet
+failure on either of our ends); my cell phone number is (509) 995-5720.
 
 Many thanks!
 
