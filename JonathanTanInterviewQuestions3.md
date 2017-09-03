@@ -73,9 +73,15 @@ Many thanks!
 Yours,
 
 Jonathan
+
 Jonathan J. Armstrong, Ph.D.
+
 Associate Professor of Bible and Theology
+
 Moody Bible Institute – Spokane
+
 611 East Indiana Avenue
+
 Spokane, WA 99207
+
 USA
