@@ -1,5 +1,27 @@
 Dear Prof. Tan!
 
+I am really excited to interview you on your new book, *World
+Christianity: Perspectives and Insights*, at 9:30am Eastern Standard
+Time (i.e., 6:30am Pacific Standard Time) on the morning of Wednesday,
+September 21, 2016. I’m delighted that we’ve been able to synchronize
+our schedules in order to do this!
+
+ 
+
+Our interview will be published in our online venue: *Unitas Fidei: An
+Online Journal For World Christianity*
+(<http://aqueductproject.org/category/book-reviews/>). From 2011–2015, I
+conducted telephone interviews with 150 scholars and Christian leaders
+from 21 countries on the subject of the unity of the church. Through
+this process, I discovered (at least—for me it was a discovery!) that
+Christians from various theological traditions conceive of Christian
+unity very differently. It’s not just our doctrinal differences that
+separate us; in fact we conceive of Christian unity in a variety of
+ways, and our attempts to pursue Christian unity can therefore be
+misunderstood by Christians of other traditions. *Unitas Fidei* is meant
+to be a place where we can set to work understanding and pursuing the
+unity for which Jesus prayed in John 17.
+
 During our conversation, I would like to ask the following questions,
 perhaps somewhat amended so as to best fit the flow of our discussion:
 
@@ -39,12 +61,12 @@ perhaps somewhat amended so as to best fit the flow of our discussion:
 
 We will record our interview via Skype (please see the attached
 “Technical Recommendations” for details). Sometime before our interview,
-**I would be grateful if you** **would send me a contact request via
-Skype** so that I have your details and can call you via Skype on the
-morning of the interview. I would also be grateful if you would kindly
-send me a telephone number at which you will be able to be reached on
-the morning of the interview (in the very unlikely case of internet
-failure on either of our ends); my cell phone number is (509) 995-5720.
+**I would be grateful if you would send me a contact request via Skype**
+so that I have your details and can call you via Skype on the morning of
+the interview. I would also be grateful if you would kindly send me a
+telephone number at which you will be able to be reached on the morning
+of the interview (in the very unlikely case of internet failure on
+either of our ends); my cell phone number is (509) 995-5720.
 
 Many thanks!
 
