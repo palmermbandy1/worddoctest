@@ -14,8 +14,6 @@ misunderstood by Christians of other traditions. *Unitas Fidei* is meant
 to be a place where we can set to work understanding and pursuing the
 unity for which Jesus prayed in John 17.
 
- 
-
 During our conversation, I would like to ask the following questions,
 perhaps somewhat amended so as to best fit the flow of our discussion:
 
