@@ -10,6 +10,7 @@ changes they make can benefit from DVCS.
 **Setup**
 Install (https://pandoc.org/ "Pandoc") and add the following to your git
 configuration settings:
+
 ```diff.pandoc.textconv=pandoc --to=markdown
 diff.pandoc.prompt=false
 merge.tool=opendiff
