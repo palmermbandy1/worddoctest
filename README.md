@@ -8,10 +8,12 @@ individuals who do not share documents but want to keep a detailed history of
 changes they make can benefit from DVCS.
 
 **Setup**
-Install (https://pandoc.org/ "Pandoc") and add the following to your git
+Install [Pandoc](https://pandoc.org/) and add the following to your git
 configuration settings:
 
-```diff.pandoc.textconv=pandoc --to=markdown
+```
+diff.pandoc.textconv=pandoc --to=markdown
 diff.pandoc.prompt=false
 merge.tool=opendiff
-alias.wdiff=diff --word-diff=color --unified=1```
+alias.wdiff=diff --word-diff=color --unified=1
+```
