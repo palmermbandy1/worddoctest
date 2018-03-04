@@ -20,3 +20,6 @@ diff.pandoc.prompt=false
 merge.tool=opendiff
 alias.wdiff=diff --word-diff=color --unified=1
 ```
+**Steps**
+
+''
